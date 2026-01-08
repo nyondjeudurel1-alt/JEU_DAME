@@ -18,8 +18,8 @@ MonProjet/
 │   ├── UI.cpp
 │   └── Utils.cpp
 ├── assets/                    # Ressources graphiques et polices
-│   ├── pieces.png             # (optionnel) sprites des pièces
-│   └── fonts/Roboto.ttf       # Police pour ImGui
+│   ├── toutes les images.png             # images
+│ 
 └── README.md                  # Ce fichier
 
 
@@ -72,7 +72,7 @@ endlocal
 
 🎮 Lancer le jeu
 Une fois compilé, exécute simplement :
-DamesAnglaises.exe
+Dame.exe
 
 
 
@@ -92,4 +92,3 @@ Tu peux suivre les étapes dans le README pour apprendre à chaque niveau.
 🧑‍💻 Auteur
 Projet conçu par Daiki, passionné de jeux, d’architecture logicielle et d’interface élégante. Ce projet est un tremplin vers la maîtrise de C++, SDL et ImGui.
 
-Souhaite-tu que je t’aide à générer les fichiers build.bat, Game.h, ou main.cpp dans un format téléchargeable ? Je peux aussi t’aider à intégrer ImGui proprement dans ton arborescence.
